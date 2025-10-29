@@ -67,4 +67,6 @@ git archive -o ../django_app_deploy.zip HEAD
 
 Upload the ZIP file through the Elastic Beanstalk console.
 
+## License
 
+MIT
